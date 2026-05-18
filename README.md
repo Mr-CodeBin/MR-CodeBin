@@ -24,9 +24,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.tenor.com/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif" width="400" height="300"/>
-</div>
+
 
 ---
 <p align="left">
